@@ -2,7 +2,7 @@
 ## 📋 Todo List App
 
 ## Project Screenshot
-![Todo List Screenshot](./screenshot.png)
+![Todo List Screenshot](https://raw.githubusercontent.com/auroraEros/toDoList/refs/heads/master/Screenshot%20.png)
 
 A simple and clean **Todo List** application built with vanilla **JavaScript**, **HTML**, and **CSS**.
 
