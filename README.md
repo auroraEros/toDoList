@@ -54,5 +54,7 @@ Here are some task ideas you can try in the app:
 
 ### 📌 Live Demo
 
-You can deploy this project easily using GitHub Pages, Netlify, or Vercel.
+## Demo
+You can view the live demo of the project here:  
+[Todo List App - Netlify](https://auorora-todo-list.netlify.app/)
 
