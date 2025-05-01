@@ -2,6 +2,8 @@
 ## 📋 Todo List App
 
 
+![App Screenshot](./screenshot.png)
+
 A simple and clean **Todo List** application built with vanilla **JavaScript**, **HTML**, and **CSS**.
 
 ### ✨ Features
@@ -16,9 +18,6 @@ A simple and clean **Todo List** application built with vanilla **JavaScript**, 
 - Persistent data with **localStorage**
 - Fully responsive and styled with custom CSS
 
-### 🖼️ Screenshot
-
-![App Screenshot](./screenshot.png) 
 
 ### 🚀 Getting Started
 
@@ -32,11 +31,6 @@ A simple and clean **Todo List** application built with vanilla **JavaScript**, 
 - JavaScript (ES6+)
 - Font Awesome (for icons)
 - LocalStorage API
-
-
-## Demo
-You can view the live demo of the project here:  
-[Todo List App - Netlify](https://auorora-todo-list.netlify.app/)
 
 ### 📁 File Structure
 
