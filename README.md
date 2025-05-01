@@ -1,8 +1,8 @@
 
 ## 📋 Todo List App
 
-
-![App Screenshot](./screenshot.png)
+## Project Screenshot
+![Todo List Screenshot](./screenshot.png)
 
 A simple and clean **Todo List** application built with vanilla **JavaScript**, **HTML**, and **CSS**.
 
